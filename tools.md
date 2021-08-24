@@ -1,3 +1,4 @@
+
 # Stage 2 
 
 
@@ -101,3 +102,69 @@ Git Lab is available in two licenses (EE) and (CE), the EE license is a paid lic
 * Hierarchy Structure
 * Improving Code
 * Terminal Support
+
+
+
+### **pyCharm advantages** 
+
+* A plethora of productive shortcuts.
+* Ability to view the entire Python source code with a single click.
+* Availability of an array of plugins.
+* Easy-to-use
+* Excellent community support
+* Facilitates faster code development.
+* More powerful, commercial version available.
+ Straightforward installation process
+
+ ### **pyCharm disadvantages** 
+
+* Costly paid version
+* May pose issues when trying to fixing tools like venv.
+* Not suitable for beginners.
+* Resource-intensive application, i.e., requires plenty of memory and storage space.
+
+
+
+[sources used ](https://hackr.io/blog/what-is-pycharm )
+
+
+
+
+### **Windows advantages** 
+
+* Ease of use 
+* Available software 
+* Backwards compatibility 
+* Support for new hardware. 
+* Compatibility with MS driven websites. 
+
+
+
+[sources used](http://www.rjsystems.nl/en/3200.php)
+
+
+
+### **GitLab advantages** 
+* ease of configuration
+* source code security
+* pipeline automation 
+* DevOps maturity feedback
+* deployment scheduling 
+
+
+
+
+[sources used](https://searchsoftwarequality.techtarget.com/video/5-advantages-of-GitLab-CI-CD-pipelines)
+
+
+
+
+
+
+
+
+
+
+
+
+
