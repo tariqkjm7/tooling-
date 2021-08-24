@@ -104,6 +104,7 @@ Git Lab is available in two licenses (EE) and (CE), the EE license is a paid lic
 * Terminal Support
 
 
+
 ### **pyCharm advantages** 
 
 * A plethora of productive shortcuts.
@@ -154,6 +155,7 @@ Git Lab is available in two licenses (EE) and (CE), the EE license is a paid lic
 
 
 [sources used](https://searchsoftwarequality.techtarget.com/video/5-advantages-of-GitLab-CI-CD-pipelines)
+
 
 
 
