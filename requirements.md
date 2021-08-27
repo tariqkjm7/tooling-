@@ -6,11 +6,11 @@ so they ask us to create a web-based application to solve this problem by using 
 also, the stake holders ask us some specific things to do in this project 
 
 **some of the requirements:**
-* log in page 
+
 * Home button 
 * about us 
 * side bar contains company name and GitHub page link.
-* button that shows the event in the in the event page. 
+* cart 
 
 
 
@@ -40,7 +40,8 @@ For the design the company ask for a side bar that contains the logo, name of th
 also, asked for contact us page so they can have any feedback from the website visitors to have any improvement in the future.
 Also, as a user they want to full details about the event so they can choose from the events that the company have.
 As a user they want to have a cart page so that they can list all of the tickets bought so they can refer to that page and see the tickets in details.
-And so many user stories that was in brief for them.
+And so many user stories that was in brief for them 
+we also added the cart that shows every thing for the user. 
 
 
 
@@ -72,8 +73,13 @@ And so many user stories that was in brief for them.
 [sources used](https://www.atlassian.com/agile)
 
 
+
+
  for the testing we didn't complete it yet.
  ### **note:** 
+
+
+ 
  **you will find the testing solution in stage (3)**
 
 
@@ -85,7 +91,7 @@ And so many user stories that was in brief for them.
    **in task 2.2** we descripe the deffrints between these tools 
    but now we will talk about why we used them to solve our problem.
    we used them becuase:
-   
+
    * these tools allows us to use the **SSH KEYS** to protect our copyRights.
    * also, to work on the project as a group and use project managment tool that already in the GitHub.
    * we used vs code to get benfit from the bulid in tools. 
