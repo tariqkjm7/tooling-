@@ -16,7 +16,7 @@
 ## 3) Feed back edits 
 
 
-for this stage we had 3 feedback from our colleagues and instructors.
+for this stage we had 4 feedbacks from our colleagues and instructors.
 
  * sold home page:
 
@@ -53,6 +53,44 @@ for this stage we had 3 feedback from our colleagues and instructors.
 
 
 # stage three 
+
+**fot the testing part:**<br>
+we **used black-box** testing **not white-box** testing
+and now I'll clarify these testing methods
+<br><br>
+
+## Black Box Testing
+
+<br>
+
+**Black Box Testing:** is a software testing method in which the functionalities of software applications are tested without having knowledge of internal code structure, implementation details and internal paths. Black Box Testing mainly focuses on input and output of software applications and it is entirely based on software requirements and specifications. It is also known as Behavioral Testing.
+
+
+
+### Black Box Testing Techniques:
+
+* **Equivalence Class Testing:** It is used to minimize the number of possible test cases to an optimum level while maintains reasonable test coverage.
+* **Boundary Value Testing:** Boundary value testing is focused on the values at boundaries. This technique determines whether a certain range of values are acceptable by the system or not. It is very useful in reducing the number of test cases. It is most suitable for the systems where an input is within certain ranges.
+* **Decision Table Testing:** A decision table puts causes and their effects in a matrix. There is a unique combination in each column.
+
+[source used](https://www.guru99.com/black-box-testing.html)
+
+<br>
+
+## White Box Testing
+
+<br>
+
+**White Box Testing:** is software testing technique in which internal structure, design and coding of software are tested to verify flow of input-output and to improve design, usability and security. In white box testing, code is visible to testers so it is also called Clear box testing, Open box testing, Transparent box testing, Code-based testing and Glass box testing.
+
+### White Box Testing Techniques
+
+* **Statement Coverage:-** This technique requires every possible statement in the code to be tested at least once during the testing process of software-engineering.
+* **Branch Coverage** – This technique checks every possible path (if-else and other conditional loops) of a software application.
+
+[source used](https://www.guru99.com/white-box-testing.html)
+
+<br><br><br><br>
 
 ## 1)applying the requirements
 ## a) HOME BUTTON 
