@@ -51,7 +51,18 @@ for this stage we had 4 feedbacks from our colleagues and instructors.
 * slide show 
 
 
+<!-- feedback edits  -->
+# ***Feedback Part 2.3***
 
+
+## why we choose these improvments 
+* we choosed the first one and **(it was having the same font family and text size)**  to make the website design and styleing look. much better 
+* for the second one **(it was cart checkout )** choosed this one to make the website more realistic and interactive.
+* for the third one video **(it was adding background video )** we added this one to make the website design and styleing look. much better.
+* for the fourth one **(it was adding slide show )**  for this one we will use it to show our events in more attractive way for the user.
+
+
+<!-- feedback End -->
 # stage three 
 
 **fot the testing part:**<br>

@@ -158,8 +158,23 @@ Git Lab is available in two licenses (EE) and (CE), the EE license is a paid lic
 
 
 
+<!-- feedback part  -->
+# ***FeedBack part***
+## why we used these tools 
 
 
+
+* **VS Code :** **We have used VS to support development processes such as Discovering and correcting errors, following up the project step by step, and writing the appropriate code for the project** 
+
+
+
+* **GitHub: there are many things we used GitHub for let me share some of them with you, first of all we used GitHub becuase it's the most popular website for creating projects online, we also used it to keep our work online in case if something happened to our local computers  so we could find our code as it is also, we used it to get advantage of the tools that GitHub give to the users such GitHub Projects we used this tool to keep on the track of our time line, one last thing and it's the most important thing in this project it's the pair programing and let me explain this one in breef this functionality allows us to work on the same project from many divices at the same time that was the most helpfull thing we used GitHub for**
+
+
+
+
+* **linux : We have used the Linux operating system in order to follow up on the projects created through GitHub and clone it easily , and because it is safer, faster and more effective, we relied on it to create and develop the project** 
+<!-- feddback End  -->
 
 
 
