@@ -51,8 +51,7 @@ for this stage we had 4 feedbacks from our colleagues and instructors.
 * slide show 
 
 
-<!-- feedback edits  -->
-# ***Feedback Part 2.3***
+
 
 
 ## why we choose these improvments 
@@ -62,7 +61,6 @@ for this stage we had 4 feedbacks from our colleagues and instructors.
 * for the fourth one **(it was adding slide show )**  for this one we will use it to show our events in more attractive way for the user.
 
 
-<!-- feedback End -->
 # stage three 
 
 **fot the testing part:**<br>
